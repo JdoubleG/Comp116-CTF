@@ -1,6 +1,6 @@
 # Comp116-CTF
 
-A report on a Capture the Flag assignment done for a Computer Security class, COMP-116, at Tufts University Spring 2020.
+A report on a Capture the Flag assignment done for a Computer Security class, COMP-116, at [Tufts University](https://www.tufts.edu/) in the Spring 2020 semester.
 
 The report is written by James Garijo-Garde, Connor Wind, Savion Sample, and Jorge Eguiguren.
 
